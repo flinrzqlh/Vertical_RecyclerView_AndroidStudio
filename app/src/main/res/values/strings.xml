@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VerticalRecyclerView</string>
+    <string name="filter_1">Filter 1</string>
+
+    <string-array name="filter_types">
+        <item>Filter 1</item>
+        <item>Filter 2</item>
+        <item>Filter 3</item>
+        <item>Filter 4</item>
+        <item>Filter 5</item>
+        <item>Filter 6</item>
+        <item>Filter 7</item>
+        <item>Filter 8</item>
+        <item>Filter 9</item>
+        <item>Filter 9 +</item>
+    </string-array>
+
+</resources>
